@@ -13,6 +13,7 @@ repositório para armazenar resumos do curso Versionamento de código [DIO] (htt
 
 
 | Iniciar o Git na pasta| [Resumos]() |
+|------|-------|
 ```
 git init
 git status
@@ -20,6 +21,7 @@ git add <file>
 git commit -m"<file>" 
 ```
 | Desfazer um commit ou mudança| [Resumos]() |
+|------|-------|
 
 ```
 git restore <file>
@@ -30,18 +32,21 @@ git reset --hard <hash>
 
 ```
 | Verificar log de arquivos alterados| [Resumos]() |
+|------|-------|
 
 ```
 git log
 git reflog
 ```
 | Se conectar ao servidor online github| [Resumos]() |
+|------|-------|
 
 ```
 git remote set-url
 git remot add origin
 ```
 | Aplicar alterações e puxar para o meu arquivo| [Resumos]() |
+|------|-------|
 
 ```
 git push -u - origin main
