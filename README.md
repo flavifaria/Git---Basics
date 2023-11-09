@@ -8,7 +8,9 @@ repositório para armazenar resumos do curso Versionamento de código [DIO] (htt
 ## Resumos das aulas 
 | Aulas | Resumos |
 |------|-------|
-| Gravando alterações no repositório Local | [Resumos]() |
+| Gravando alterações no repositório Local 1| [Resumos]() |
+| Gravando alterações no repositório Local 2| [Resumos]() |
+
 ```
 git init
 ```
