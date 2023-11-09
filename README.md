@@ -12,5 +12,23 @@ repositório para armazenar resumos do curso Versionamento de código [DIO] (htt
 ```
 git init
 ```
+
+```
+git restore <file>
+git restores --staged <file>
+git reset --soft
+git reset --mixed <hash>
+git reset --hard <hash>
+
+```
+
+```
+git log
+git reflog
+```
+
+
+
+
 ## Referências
 -[Digital Inovation One]()
