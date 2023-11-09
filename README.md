@@ -16,7 +16,8 @@ repositório para armazenar resumos do curso Versionamento de código [DIO] (htt
 ```
 git init
 git status
-git add .
+git add <file>
+git commit -m"<file>" 
 ```
 | Desfazer um commit ou mudança| [Resumos]() |
 
@@ -47,6 +48,19 @@ git push -u - origin main
 git pull
 
 ```
+## Branches
+Cria ramificações do seu projeto , para testes como se fosse um universo paralelo o qual você pode implementar mudanças sem impactar no projeto principal
+
+git checkout -b <branch>
+git checkout main
+git branch -v
+
+### MESCLAR BRANCHS
+git merge
+
+### DELETAR BRANCHS
+git branch -d 
+
 
 
 
